@@ -18,4 +18,7 @@ export default defineConfig({
     specPattern: "**/*.feature",
     baseUrl: "https://audiostack-qa-test.netlify.app/",
   },
+  viewportWidth: 1920,
+  viewportHeight: 1080,
 });
+
